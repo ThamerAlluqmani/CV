@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d9a2587-ba01-49cc-8845-80addf178936" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-43-42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-44-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-44-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-44-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/vendors/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/vendors/simplebar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/vendors/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-app.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-design.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iconcs/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-map-pic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-news.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-quote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/triangle-2-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/triangle-2-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/triangles-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/triangles-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (1).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (2).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (4).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (5).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/plugins-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/plugins.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1roSNAb77olJogmW7SwfMYGZOAQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Thamer\Documents\GitHub\CV\assets\iconcs" />
+      <recent name="C:\Users\Thamer\Documents\GitHub\CV\assets\img" />
+      <recent name="C:\Users\Thamer\Documents\GitHub\CV\assets\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9a2587-ba01-49cc-8845-80addf178936" name="Default Changelist" comment="" />
+      <created>1619640908085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619640908085</updated>
+      <workItem from="1619640910019" duration="3303000" />
+      <workItem from="1619645280414" duration="3065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
