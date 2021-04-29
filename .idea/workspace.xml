@@ -11,51 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d9a2587-ba01-49cc-8845-80addf178936" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-43-42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-44-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-44-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/avatar/photo_2021-04-28_23-44-12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/vendors/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/vendors/simplebar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/vendors/swiper.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fa/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-app.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-design.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/iconcs/dark/icon-photo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/iconcs/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-114x114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-57x57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicons/apple-touch-icon-72x72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicons/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon-map-pic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon-news.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon-quote.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/triangle-2-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/triangle-2-top.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/triangles-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/triangles-top.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (2).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (3).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (4).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white (5).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/logo-partner-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-dev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-photo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +74,7 @@
       <updated>1619640908085</updated>
       <workItem from="1619640910019" duration="3303000" />
       <workItem from="1619645280414" duration="3065000" />
+      <workItem from="1619659668996" duration="1861000" />
     </task>
     <servers />
   </component>
